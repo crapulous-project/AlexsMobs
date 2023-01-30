@@ -4,7 +4,6 @@ import com.github.alexthe666.alexsmobs.entity.EntityCachalotEcho;
 import com.github.alexthe666.alexsmobs.misc.AMPointOfInterestRegistry;
 import com.github.alexthe666.alexsmobs.misc.AMSoundRegistry;
 import com.google.common.base.Predicates;
-import jdk.nashorn.internal.ir.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.client.renderer.debug.CaveDebugRenderer;
 import net.minecraft.entity.player.PlayerEntity;
